@@ -1,0 +1,13 @@
+Joydetect Utility:
+======================
+
+Purpose: to accurately grab the MAC address of PS3/PS4 controllers
+	 
+To build manually:
+======================
+
+mkdir build
+cd build
+cmake ..
+make
+sudo make install
