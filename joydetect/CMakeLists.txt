@@ -10,4 +10,4 @@ project (joydetect)
 add_subdirectory (source)
 
 #install documentation
-install (FILES AUTHORS licence.txt README DESTINATION /usr/share/doc/joydetect)
+install (FILES AUTHORS README DESTINATION /usr/share/doc/joydetect)
