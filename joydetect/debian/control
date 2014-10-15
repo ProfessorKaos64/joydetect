@@ -1,7 +1,7 @@
 Source: joydetect
 Section: contrib/games
 Priority: optional
-Maintainer: RetroRig Development Team <mdeguzis@gmail.com>
+Maintainer: pkgmaintainer
 Build-Depends: debhelper, gcc, cmake
 Standards-Version: 3.9.3
 Homepage: https://github.com/professorkaos64/RetroRig
