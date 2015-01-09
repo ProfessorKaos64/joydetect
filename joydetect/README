@@ -6,6 +6,7 @@ Purpose: to accurately grab the MAC address of PS3/PS4 controllers
 To build manually:
 ======================
 
+cd source/
 mkdir build
 cd build
 cmake ..
